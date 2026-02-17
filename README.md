@@ -6,7 +6,9 @@
 
 ##  Descripción Técnica
 Este repositorio contiene una Prueba de Concepto (PoC) desarrollada en Python utilizando el framework **Scapy**. 
-**Objetivo del Script:** Ejecutar una Denegación de Servicio (DoS) mediante la inundación de solicitudes DHCP DISCOVER con direcciones MAC falsificadas aleatorias. El objetivo es agotar el pool de direcciones IP disponibles en el servidor DHCP legítimo, impidiendo que nuevos clientes se conecten a la red.
+
+## Objetivo del Script:
+** Ejecutar una Denegación de Servicio (DoS) mediante la inundación de solicitudes DHCP DISCOVER con direcciones MAC falsificadas aleatorias. El objetivo es agotar el pool de direcciones IP disponibles en el servidor DHCP legítimo, impidiendo que nuevos clientes se conecten a la red.
 El script demuestra vulnerabilidades críticas en la Capa 2 (Enlace de Datos) del modelo OSI, permitiendo auditar la seguridad de la infraestructura de red conmutada.
 
 ## Topología y Escenario
