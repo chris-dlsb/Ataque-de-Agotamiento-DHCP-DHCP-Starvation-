@@ -22,7 +22,8 @@ El entorno de pruebas fue desplegado utilizando **GNS3** con emulación de hardw
 
 
 ### Diagrama Lógico
-<img width="482" height="457" alt="Screenshot 2026-02-16 153116" src="https://github.com/user-attachments/assets/006a151a-8ec5-48eb-bc00-ed7fd5208f1f" />
+<img width="428" height="402" alt="image" src="https://github.com/user-attachments/assets/75019a95-cdb2-4591-87e9-e998a8630a4f" />
+
 
 
 ##  Requisitos y Dependencias
