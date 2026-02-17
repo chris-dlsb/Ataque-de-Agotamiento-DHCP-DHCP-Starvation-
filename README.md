@@ -57,16 +57,12 @@ Para ejecutar esta herramienta se requiere:
 ## 📸 Evidencia de Funcionamiento (PoC)
 
 **1. Ejecución del Ataque:**
-*(Pega aquí captura de tu terminal Kali corriendo el script)*
-`![Ejecucion](./evidencias/terminal.png)`
+<img width="634" height="103" alt="image" src="https://github.com/user-attachments/assets/bf6949d1-9794-4e03-b633-0a715933eefa" />
 
-**2. Análisis de Tráfico (Wireshark):**
-*(Pega aquí captura de Wireshark mostrando los paquetes maliciosos)*
-`![Wireshark](./evidencias/wireshark.png)`
+
 
 **3. Impacto en la Víctima:**
-*(Pega aquí captura de la consola del Switch/Router mostrando el daño)*
-`![Impacto](./evidencias/impacto.png)`
+<img width="715" height="179" alt="image" src="https://github.com/user-attachments/assets/7e665b1d-120f-4f31-b922-2a28ba4b1c07" />
 
 ## 🛡️ Medidas de Mitigación
 
@@ -78,7 +74,7 @@ Port Security: Configurar seguridad de puertos en el Switch para limitar el núm
 
 DHCP Snooping: Habilitar DHCP Snooping globalmente y configurar límites de tasa (rate-limit) en puertos no confiables para descartar ráfagas excesivas de solicitudes DHCP.
 ---
-*Descargo de Responsabilidad: Este software fue creado únicamente con fines académicos para la asignatura de Ciberseguridad del ITLA. El autor no se hace responsable del mal uso de esta herramienta.*
+*Descargo de Responsabilidad: Este software fue creado únicamente con fines académicos. El autor no se hace responsable del mal uso de esta herramienta.*
 
 **Autor:** Cristopher De Los Santos  
 **Matrícula:** 2024-1414
